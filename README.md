@@ -1,2 +1,2 @@
 # Coding-1
-An Unreal Project for Coding 1at wichita state
+An Unreal Project for Coding 1 at wichita state
